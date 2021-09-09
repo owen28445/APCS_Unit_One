@@ -6,14 +6,13 @@
   high school on the next line.
   You must use two statements to print
   your first and last name.
-
 */
     public class NameAndSchool {
         public static void main(String[] args) {
             //output statement for your first name (please change what is below)
-            System.out.print("Brian");
+            System.out.print("Owen Feng");
             //output statement for your last name
-
+            System.out.print("Sandy Spring Frendis School");
             //output statement for your school
 
         }

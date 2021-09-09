@@ -9,5 +9,7 @@ public class RectangleArea {
 
         // output the answer
 
-    }
-}
+        int.length= 14
+        int.width=6
+        int.Area=84
+
