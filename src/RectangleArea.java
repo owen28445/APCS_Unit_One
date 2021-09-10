@@ -8,8 +8,6 @@ public class RectangleArea {
         //declare area - use length and width to calculate area
 
         // output the answer
-
-        int.length= 14
-        int.width=6
-        int.Area=84
+    }
+}
 
