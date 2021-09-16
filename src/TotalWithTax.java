@@ -11,5 +11,19 @@ public class TotalWithTax {
         //Make the calculations and assign
         //the results to the appropriate variables.
         //Print the results.
+
     }
 }
+
+public class OperatorTest
+{
+    public static void main(String[] args)
+    {
+        System.out.println(-3.21);
+        System.out.println(-9.86);
+        System.out.println(11.487);
+        System.out.println((double) );
+    }
+}
+
+
