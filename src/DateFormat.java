@@ -10,8 +10,8 @@ public class DateFormat {
         System.out.println("What is the day of the week?");
         String dow = scan. nextLine();
         System.out.println("What is the current year?");
-        int year = scan . nextLine();
+        int year = scan.nextInt();
         System. out.println("What is the current month?");
-        int dayofmonth = scan.nextLine();
+        int dayofmonth = scan.nextInt();
     }
 }

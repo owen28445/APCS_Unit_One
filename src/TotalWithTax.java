@@ -15,15 +15,6 @@ public class TotalWithTax {
     }
 }
 
-public class OperatorTest
-{
-    public static void main(String[] args)
-    {
-        System.out.println(-3.21);
-        System.out.println(-9.86);
-        System.out.println(11.487);
-        System.out.println((double) );
-    }
-}
+
 
 
